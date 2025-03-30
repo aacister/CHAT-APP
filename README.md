@@ -1,1 +1,1 @@
-MERN Chat app -- in progress.
+MERN (MongoDb, ExpressJs, React, Node) Chat app -- in progress.
